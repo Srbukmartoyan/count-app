@@ -1,0 +1,20 @@
+.row {
+    display: flex;
+    gap: 10px;
+}
+
+.number {
+    background-color: var(--main-blue-color);
+}
+
+.add {
+    background-color: var(--main-grey-color);
+}
+
+.decrese{
+    background-color: var(--main-green-color);
+}
+
+.remove {
+    background-color: var(--main-red-color);
+}

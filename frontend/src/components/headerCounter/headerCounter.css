@@ -1,0 +1,32 @@
+.header-counter {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo-count-container {
+    display: flex;
+    gap: 10px;
+}
+
+.logo-count {
+    padding: 3px 20px;
+    background-color: var(--header-counter-color);
+    color: var(--main-text-color);
+    border-radius: var(--radius);
+    font-weight: bold;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.fa-shopping-cart {
+    font-size: 20px;
+}
+
+span {
+    font-weight: bold;
+    font-size: 20px;
+}

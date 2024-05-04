@@ -1,0 +1,14 @@
+.controls-container {
+    display: flex;
+    gap: 10px;
+}
+
+.refresh-items, .restore {
+    background-color: var(--refresh-color);
+    display: flex;
+    gap: 5px;
+}
+
+.restore {
+    background-color: var(--restore-color);
+}
